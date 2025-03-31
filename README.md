@@ -1,3 +1,2 @@
 # Tetris-Board
-my game
-Initial upload of Tetris game
+add code for game
